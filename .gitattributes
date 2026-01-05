@@ -1,0 +1,9 @@
+Rag_Techniques/chroma_db_baseline filter=lfs diff=lfs merge=lfs -text
+C:/Users/USER/Desktop/working_with_LLMs/Rag_Techniques/chroma_db_t3 filter=lfs diff=lfs merge=lfs -text
+C:/Users/USER/Desktop/working_with_LLMs/Rag_Techniques/chroma_db_t3 filter=lfs diff=lfs merge=lfs -text
+C:/Users/USER/Desktop/working_with_LLMs/chroma_db filter=lfs diff=lfs merge=lfs -text
+my-rag-project/chroma_db filter=lfs diff=lfs merge=lfs -text
+C:/Users/USER/Desktop/working_with_LLMs/Rag_Techniques/chroma_db_t3 filter=lfs diff=lfs merge=lfs -text
+C:/Users/USER/Desktop/working_with_LLMs/Rag_Techniques/chroma_db_t7 filter=lfs diff=lfs merge=lfs -text
+C:/Users/USER/Desktop/working_with_LLMs/Rag_Techniques/chroma_db_technique2 filter=lfs diff=lfs merge=lfs -text
+C:/Users/USER/Desktop/working_with_LLMs/Rag_Techniques/msme.csv filter=lfs diff=lfs merge=lfs -text

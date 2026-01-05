@@ -1,0 +1,46 @@
+llmenv
+.env
+.env.local
+.env.*
+*.env
+**/.env
+# my-rag-project/.env
+# Rag_Techniques/.env
+
+# Environment variables
+llmenv
+.env
+.env.local
+.env.*
+*.env
+**/.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+*.egg
+pip-log.txt
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Vector databases/large files (add your specific extensions)
+*.pkl
+*.h5
+*.bin
+*.faiss
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+EOF
